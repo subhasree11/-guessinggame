@@ -19,4 +19,4 @@ do
 	guess
 done
 
-echo "Congrats.Your guess is correct"
+echo "Congrats.Your guess is correct.The no of file in director are $t"
